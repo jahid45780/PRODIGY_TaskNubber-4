@@ -5,9 +5,10 @@ body {
     height: 100vh;
     margin: 0;
     font-family: Arial, sans-serif;
-    background-image: url("/thunderstorm.jpg");
+    /* background-image: url("/thunderstorm.jpg");
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: cover; */
+    background: linear-gradient(135deg, #72c2d3, #3498db);
 }
 
 .title{
