@@ -21,6 +21,10 @@ body {
    font-weight: bold;
    font-size: 15px;
 }
+.footer{
+    text-align: center;
+    color: white;
+}
 
 .weather-app {
     text-align: center;
